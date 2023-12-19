@@ -1,0 +1,109 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Youssef Atef"
+    },
+    {
+      "id": 2,
+      "name": "Abdo Atef"
+    },
+    {
+      "id": 3,
+      "name": "Mostafa Ezzat"
+    },
+    {
+      "id": 4,
+      "name": "Mohammed Mostafa"
+    }
+  ],
+  "posts": [
+    {
+      "id": 2,
+      "title": "Post 2 Title",
+      "body": "here we have the contents of post 2",
+      "userId": 2,
+      "date": "2023-12-15T01:02:01.488Z",
+      "reactions": {
+        "thumbsUp": 0,
+        "heart": 0,
+        "wow": 0,
+        "sad": 0,
+        "angry": 0
+      }
+    },
+    {
+      "id": 3,
+      "title": "Post 3 Title",
+      "body": "here we have the contents of post 3",
+      "userId": 3,
+      "date": "2023-12-15T01:02:01.488Z",
+      "reactions": {
+        "thumbsUp": 0,
+        "heart": 0,
+        "wow": 0,
+        "sad": 0,
+        "angry": 0
+      }
+    },
+    {
+      "id": 4,
+      "title": "Post 4 Title",
+      "body": "here we have the contents of post 4",
+      "userId": 4,
+      "date": "2023-12-15T01:02:01.488Z",
+      "reactions": {
+        "thumbsUp": 3,
+        "heart": 0,
+        "wow": 0,
+        "sad": 0,
+        "angry": 0
+      }
+    },
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "post one",
+      "body": "brief info about post one contents",
+      "reactions": {
+        "thumbsUp": 20,
+        "heart": 4,
+        "wow": 4,
+        "sad": 3,
+        "angry": 2
+      }
+    },
+    {
+      "userId": 2,
+      "id": 2,
+      "title": "post two",
+      "body": "brief info about post two contents"
+    },
+    {
+      "userId": 3,
+      "id": 3,
+      "title": "post three",
+      "body": "brief info about post three contents"
+    },
+    {
+      "userId": 4,
+      "id": 4,
+      "title": "post four",
+      "body": "brief info about post four contents"
+    },
+    {
+      "title": "new_post 1",
+      "body": "\ngoooooooooooooooooooooooooooooooogoooooooooooooooooooooooooooooooo\n\ngoooooooooooooooooooooooooooooooo\ngoooooooooooooooooooooooooooooooo",
+      "userId": 1,
+      "date": "2023-12-16T18:01:07.814Z",
+      "reactions": {
+        "thumbsUp": 7,
+        "heart": 1,
+        "wow": 1,
+        "sad": 1,
+        "angry": 1
+      },
+      "id": 5
+    }
+  ]
+}
